@@ -21,8 +21,8 @@ Permet de pousser les modifications en ligne
 
 ## git status
 
--Permet de lister les modifications a traiter et 
--verifier le status du repertoire
+- Permet de lister les modifications a traiter et 
+- verifier le status du repertoire
 
 ## git log
 
