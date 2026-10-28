@@ -51,3 +51,13 @@ permet de creer une branche
 - permet de recuperer les modification dans la branche parente( mere)
 -les modifications de la branche mere sont placees en dessous des modifications de la branche courantes
 * les modifications de la branche courantes sont placees au dessus des modifications de la branche mere
+
+## git reset
+
+* peret de supprimer un commit ou
+* revenir a un commit recis, defini par son identifiant
+- utiliser des precaution
+
+## git diff
+
+- permet de comparer dex commits
